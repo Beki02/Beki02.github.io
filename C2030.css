@@ -1,0 +1,118 @@
+header{
+	background-color: #108040;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	width: 100%;
+}
+
+header img{
+	width: 150px;
+}
+
+header ul{
+	list-style: none;
+	display: flex;
+	flex-direction: row;
+}
+
+header ul li{
+margin: 20px;
+color: #FFFFFF;
+}
+
+
+h1{
+	font-size: 25px;
+	color: #108040;
+	font-family: ´Gill Sans MT´, Calibri, ´Trebuchet MS´, sans-serif;
+}
+
+h2{
+	font-size: 60px;
+	color: #108001;
+	font-family: "Caveat", cursive;
+	padding: 30px;
+}
+
+p{
+	font-size: 15px;
+	color: #000000;
+}
+
+p1{
+	font-size: 20px;
+	color: #000000;
+}
+
+
+.presentacion{
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	padding: 30px;
+	justify-content: flex-start;
+	align-items: center;
+}
+
+.presentacion h1{
+	font-size: 35px;
+	color: #108040;
+	font-family: ´Gill Sans MT´, Calibri, ´Trebuchet MS´, sans-serif;
+}
+
+.container{
+	justify-content: flex-start;
+	align-items: center;
+	padding: 40px;
+}
+
+.container a{
+	color: #108040;
+}
+
+.container p1{
+	color: #108040;
+	font-size: 15px;
+	font-family: "Caveat", cursive;
+}
+
+.container img{
+	width: 60%;
+}
+
+.contenedor{
+	padding: 20px;
+	align-items: center;
+}
+
+form{
+	align-self: center;
+}
+
+footer{
+	background-color: #108040;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	width: 100%;
+}
+
+footer ul{
+	list-style: none;
+	display: flex;
+	flex-direction: row;
+}
+
+footer ul li{
+margin: 20px;
+color: #FFFFFF;
+}
+
+footer p{
+	font-size: 15px;
+	font-family: ´Gill Sans MT´, Calibri, ´Trebuchet MS´, sans-serif;
+	color: #FFFFFF;
+	align-self: center;
+
+}
